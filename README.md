@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive view of workforce metrics, attr
 
 
 ## Dashboard Screenshot
-![HR Analytics Dashboard](./HR_Analtyics_Final_Dashboard.jpeg)
+![HR Analytics Dashboard]('./HR Analtyics Final Dashboard.jpeg')
 
 ## Key Metrics
 
