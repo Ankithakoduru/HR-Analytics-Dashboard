@@ -3,6 +3,10 @@
 ## Overview
 This Power BI dashboard provides a comprehensive view of workforce metrics, attrition patterns, and employee demographics. Built to help HR leaders and business stakeholders make data-driven decisions around retention, hiring, and workforce planning.
 
+
+## Dashboard Screenshot
+![HR Analytics Dashboard](HR_Analtyics_Final_Dashboard.jpeg)
+
 ## Key Metrics
 
 | Metric | Value |
